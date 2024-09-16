@@ -1,0 +1,327 @@
+"ordernumber";"orderdate";"requireddate";"shippedDate";"status";"comments";"customernumber"
+10100;"20030106";"20030113";"20030110";"Shipped";"";363
+10101;"20030109";"20030118";"20030111";"Shipped";"Check on availability.";128
+10102;"20030110";"20030118";"20030114";"Shipped";"";181
+10103;"20030129";"20030207";"20030202";"Shipped";"";121
+10104;"20030131";"20030209";"20030201";"Shipped";"";141
+10105;"20030211";"20030221";"20030212";"Shipped";"";145
+10106;"20030217";"20030224";"20030221";"Shipped";"";278
+10107;"20030224";"20030303";"20030226";"Shipped";"Difficult to negotiate with customer. We need more marketing materials";131
+10108;"20030303";"20030312";"20030308";"Shipped";"";385
+10109;"20030310";"20030319";"20030311";"Shipped";"Customer requested that FedEx Ground is used for this shipping";486
+10110;"20030318";"20030324";"20030320";"Shipped";"";187
+10111;"20030325";"20030331";"20030330";"Shipped";"";129
+10112;"20030324";"20030403";"20030329";"Shipped";"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment";144
+10113;"20030326";"20030402";"20030327";"Shipped";"";124
+10114;"20030401";"20030407";"20030402";"Shipped";"";172
+10115;"20030404";"20030412";"20030407";"Shipped";"";424
+10116;"20030411";"20030419";"20030413";"Shipped";"";381
+10117;"20030416";"20030424";"20030417";"Shipped";"";148
+10118;"20030421";"20030429";"20030426";"Shipped";"Customer has worked with some of our vendors in the past and is aware of their MSRP";216
+10119;"20030428";"20030505";"20030502";"Shipped";"";382
+10120;"20030429";"20030508";"20030501";"Shipped";"";114
+10121;"20030507";"20030513";"20030513";"Shipped";"";353
+10122;"20030508";"20030516";"20030513";"Shipped";"";350
+10123;"20030520";"20030529";"20030522";"Shipped";"";103
+10124;"20030521";"20030529";"20030525";"Shipped";"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch";112
+10125;"20030521";"20030527";"20030524";"Shipped";"";114
+10126;"20030528";"20030607";"20030602";"Shipped";"";458
+10127;"20030603";"20030609";"20030606";"Shipped";"Customer requested special shippment. The instructions were passed along to the warehouse";151
+10128;"20030606";"20030612";"20030611";"Shipped";"";141
+10129;"20030612";"20030618";"20030614";"Shipped";"";324
+10130;"20030616";"20030624";"20030621";"Shipped";"";198
+10131;"20030616";"20030625";"20030621";"Shipped";"";447
+10132;"20030625";"20030701";"20030628";"Shipped";"";323
+10133;"20030627";"20030704";"20030703";"Shipped";"";141
+10134;"20030701";"20030710";"20030705";"Shipped";"";250
+10135;"20030702";"20030712";"20030703";"Shipped";"";124
+10136;"20030704";"20030714";"20030706";"Shipped";"Customer is interested in buying more Ferrari models";242
+10137;"20030710";"20030720";"20030714";"Shipped";"";353
+10138;"20030707";"20030716";"20030713";"Shipped";"";496
+10139;"20030716";"20030723";"20030721";"Shipped";"";282
+10140;"20030724";"20030802";"20030730";"Shipped";"";161
+10141;"20030801";"20030809";"20030804";"Shipped";"";334
+10142;"20030808";"20030816";"20030813";"Shipped";"";124
+10143;"20030810";"20030818";"20030812";"Shipped";"Can we deliver the new Ford Mustang models by end-of-quarter?";320
+10144;"20030813";"20030821";"20030814";"Shipped";"";381
+10145;"20030825";"20030902";"20030831";"Shipped";"";205
+10146;"20030903";"20030913";"20030906";"Shipped";"";447
+10147;"20030905";"20030912";"20030909";"Shipped";"";379
+10148;"20030911";"20030921";"20030915";"Shipped";"They want to reevaluate their terms agreement with Finance.";276
+10149;"20030912";"20030918";"20030917";"Shipped";"";487
+10150;"20030919";"20030927";"20030921";"Shipped";"They want to reevaluate their terms agreement with Finance.";148
+10151;"20030921";"20030930";"20030924";"Shipped";"";311
+10152;"20030925";"20031003";"20031001";"Shipped";"";333
+10153;"20030928";"20031005";"20031003";"Shipped";"";141
+10154;"20031002";"20031012";"20031008";"Shipped";"";219
+10155;"20031006";"20031013";"20031007";"Shipped";"";186
+10156;"20031008";"20031017";"20031011";"Shipped";"";141
+10157;"20031009";"20031015";"20031014";"Shipped";"";473
+10158;"20031010";"20031018";"20031015";"Shipped";"";121
+10159;"20031010";"20031019";"20031016";"Shipped";"";321
+10160;"20031011";"20031017";"20031017";"Shipped";"";347
+10161;"20031017";"20031025";"20031020";"Shipped";"";227
+10162;"20031018";"20031026";"20031019";"Shipped";"";321
+10163;"20031020";"20031027";"20031024";"Shipped";"";424
+10164;"20031021";"20031030";"20031023";"Resolved";"This order was disputed, but resolved on 11/1/2003; Customer doesn't like the colors and precision of the models.";452
+10165;"20031022";"20031031";"20031226";"Shipped";"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received";148
+10166;"20031021";"20031030";"20031027";"Shipped";"";462
+10167;"20031023";"20031030";"";"Cancelled";"Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them.";448
+10168;"20031028";"20031103";"20031101";"Shipped";"";161
+10169;"20031104";"20031114";"20031109";"Shipped";"";276
+10170;"20031104";"20031112";"20031107";"Shipped";"";452
+10171;"20031105";"20031113";"20031107";"Shipped";"";233
+10172;"20031105";"20031114";"20031111";"Shipped";"";175
+10173;"20031105";"20031115";"20031109";"Shipped";"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches";278
+10174;"20031106";"20031115";"20031110";"Shipped";"";333
+10175;"20031106";"20031114";"20031109";"Shipped";"";324
+10176;"20031106";"20031115";"20031112";"Shipped";"";386
+10177;"20031107";"20031117";"20031112";"Shipped";"";344
+10178;"20031108";"20031116";"20031110";"Shipped";"Custom shipping instructions sent to warehouse";242
+10179;"20031111";"20031117";"20031113";"Cancelled";"Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges.";496
+10180;"20031111";"20031119";"20031114";"Shipped";"";171
+10181;"20031112";"20031119";"20031115";"Shipped";"";167
+10182;"20031112";"20031121";"20031118";"Shipped";"";124
+10183;"20031113";"20031122";"20031115";"Shipped";"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.";339
+10184;"20031114";"20031122";"20031120";"Shipped";"";484
+10185;"20031114";"20031121";"20031120";"Shipped";"";320
+10186;"20031114";"20031120";"20031118";"Shipped";"They want to reevaluate their terms agreement with the VP of Sales";489
+10187;"20031115";"20031124";"20031116";"Shipped";"";211
+10188;"20031118";"20031126";"20031124";"Shipped";"";167
+10189;"20031118";"20031125";"20031124";"Shipped";"They want to reevaluate their terms agreement with Finance.";205
+10190;"20031119";"20031129";"20031120";"Shipped";"";141
+10191;"20031120";"20031130";"20031124";"Shipped";"We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.";259
+10192;"20031120";"20031129";"20031125";"Shipped";"";363
+10193;"20031121";"20031128";"20031127";"Shipped";"";471
+10194;"20031125";"20031202";"20031126";"Shipped";"";146
+10195;"20031125";"20031201";"20031128";"Shipped";"";319
+10196;"20031126";"20031203";"20031201";"Shipped";"";455
+10197;"20031126";"20031202";"20031201";"Shipped";"Customer inquired about remote controlled models and gold models.";216
+10198;"20031127";"20031206";"20031203";"Shipped";"";385
+10199;"20031201";"20031210";"20031206";"Shipped";"";475
+10200;"20031201";"20031209";"20031206";"Shipped";"";211
+10201;"20031201";"20031211";"20031202";"Shipped";"";129
+10202;"20031202";"20031209";"20031206";"Shipped";"";357
+10203;"20031202";"20031211";"20031207";"Shipped";"";141
+10204;"20031202";"20031210";"20031204";"Shipped";"";151
+10205;"20031203";"20031209";"20031207";"Shipped";" I need all the information I can get on our competitors.";141
+10206;"20031205";"20031213";"20031208";"Shipped";"Can we renegotiate this one?";202
+10207;"20031209";"20031217";"20031211";"Shipped";"Check on availability.";495
+10208;"20040102";"20040111";"20040104";"Shipped";"";146
+10209;"20040109";"20040115";"20040112";"Shipped";"";347
+10210;"20040112";"20040122";"20040120";"Shipped";"";177
+10211;"20040115";"20040125";"20040118";"Shipped";"";406
+10212;"20040116";"20040124";"20040118";"Shipped";"";141
+10213;"20040122";"20040128";"20040127";"Shipped";"Difficult to negotiate with customer. We need more marketing materials";489
+10214;"20040126";"20040204";"20040129";"Shipped";"";458
+10215;"20040129";"20040208";"20040201";"Shipped";"Customer requested that FedEx Ground is used for this shipping";475
+10216;"20040202";"20040210";"20040204";"Shipped";"";256
+10217;"20040204";"20040214";"20040206";"Shipped";"";166
+10218;"20040209";"20040216";"20040211";"Shipped";"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment";473
+10219;"20040210";"20040217";"20040212";"Shipped";"";487
+10220;"20040212";"20040219";"20040216";"Shipped";"";189
+10221;"20040218";"20040226";"20040219";"Shipped";"";314
+10222;"20040219";"20040227";"20040220";"Shipped";"";239
+10223;"20040220";"20040229";"20040224";"Shipped";"";114
+10224;"20040221";"20040302";"20040226";"Shipped";"Customer has worked with some of our vendors in the past and is aware of their MSRP";171
+10225;"20040222";"20040301";"20040224";"Shipped";"";298
+10226;"20040226";"20040306";"20040302";"Shipped";"";239
+10227;"20040302";"20040312";"20040308";"Shipped";"";146
+10228;"20040310";"20040318";"20040313";"Shipped";"";173
+10229;"20040311";"20040320";"20040312";"Shipped";"";124
+10230;"20040315";"20040324";"20040320";"Shipped";"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch";128
+10231;"20040319";"20040326";"20040325";"Shipped";"";344
+10232;"20040320";"20040330";"20040325";"Shipped";"";240
+10233;"20040329";"20040404";"20040402";"Shipped";"Customer requested special shippment. The instructions were passed along to the warehouse";328
+10234;"20040330";"20040405";"20040402";"Shipped";"";412
+10235;"20040402";"20040412";"20040406";"Shipped";"";260
+10236;"20040403";"20040411";"20040408";"Shipped";"";486
+10237;"20040405";"20040412";"20040410";"Shipped";"";181
+10238;"20040409";"20040416";"20040410";"Shipped";"";145
+10239;"20040412";"20040421";"20040417";"Shipped";"";311
+10240;"20040413";"20040420";"20040420";"Shipped";"";177
+10241;"20040413";"20040420";"20040419";"Shipped";"";209
+10242;"20040420";"20040428";"20040425";"Shipped";"Customer is interested in buying more Ferrari models";456
+10243;"20040426";"20040503";"20040428";"Shipped";"";495
+10244;"20040429";"20040509";"20040504";"Shipped";"";141
+10245;"20040504";"20040512";"20040509";"Shipped";"";455
+10246;"20040505";"20040513";"20040506";"Shipped";"";141
+10247;"20040505";"20040511";"20040508";"Shipped";"";334
+10248;"20040507";"20040514";"";"Cancelled";"Order was mistakenly placed. The warehouse noticed the lack of documentation.";131
+10249;"20040508";"20040517";"20040511";"Shipped";"Can we deliver the new Ford Mustang models by end-of-quarter?";173
+10250;"20040511";"20040519";"20040515";"Shipped";"";450
+10251;"20040518";"20040524";"20040524";"Shipped";"";328
+10252;"20040526";"20040604";"20040529";"Shipped";"";406
+10253;"20040601";"20040609";"20040602";"Cancelled";"Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees.";201
+10254;"20040603";"20040613";"20040604";"Shipped";"Customer requested that DHL is used for this shipping";323
+10255;"20040604";"20040612";"20040609";"Shipped";"";209
+10256;"20040608";"20040616";"20040610";"Shipped";"";145
+10257;"20040614";"20040624";"20040615";"Shipped";"";450
+10258;"20040615";"20040625";"20040623";"Shipped";"";398
+10259;"20040615";"20040622";"20040617";"Shipped";"";166
+10260;"20040616";"20040622";"";"Cancelled";"Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager.";357
+10261;"20040617";"20040625";"20040622";"Shipped";"";233
+10262;"20040624";"20040701";"";"Cancelled";"This customer found a better offer from one of our competitors. Will call back to renegotiate.";141
+10263;"20040628";"20040704";"20040702";"Shipped";"";175
+10264;"20040630";"20040706";"20040701";"Shipped";"Customer will send a truck to our local warehouse on 7/1/2004";362
+10265;"20040702";"20040709";"20040707";"Shipped";"";471
+10266;"20040706";"20040714";"20040710";"Shipped";"";386
+10267;"20040707";"20040717";"20040709";"Shipped";"";151
+10268;"20040712";"20040718";"20040714";"Shipped";"";412
+10269;"20040716";"20040722";"20040718";"Shipped";"";382
+10270;"20040719";"20040727";"20040724";"Shipped";"Can we renegotiate this one?";282
+10271;"20040720";"20040729";"20040723";"Shipped";"";124
+10272;"20040720";"20040726";"20040722";"Shipped";"";157
+10273;"20040721";"20040728";"20040722";"Shipped";"";314
+10274;"20040721";"20040729";"20040722";"Shipped";"";379
+10275;"20040723";"20040802";"20040729";"Shipped";"";119
+10276;"20040802";"20040811";"20040808";"Shipped";"";204
+10277;"20040804";"20040812";"20040805";"Shipped";"";148
+10278;"20040806";"20040816";"20040809";"Shipped";"";112
+10279;"20040809";"20040819";"20040815";"Shipped";"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches";141
+10280;"20040817";"20040827";"20040819";"Shipped";"";249
+10281;"20040819";"20040828";"20040823";"Shipped";"";157
+10282;"20040820";"20040826";"20040822";"Shipped";"";124
+10283;"20040820";"20040830";"20040823";"Shipped";"";260
+10284;"20040821";"20040829";"20040826";"Shipped";"Custom shipping instructions sent to warehouse";299
+10285;"20040827";"20040904";"20040831";"Shipped";"";286
+10286;"20040828";"20040906";"20040901";"Shipped";"";172
+10287;"20040830";"20040906";"20040901";"Shipped";"";298
+10288;"20040901";"20040911";"20040905";"Shipped";"";166
+10289;"20040903";"20040913";"20040904";"Shipped";"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.";167
+10290;"20040907";"20040915";"20040913";"Shipped";"";198
+10291;"20040908";"20040917";"20040914";"Shipped";"";448
+10292;"20040908";"20040918";"20040911";"Shipped";"They want to reevaluate their terms agreement with Finance.";131
+10293;"20040909";"20040918";"20040914";"Shipped";"";249
+10294;"20040910";"20040917";"20040914";"Shipped";"";204
+10295;"20040910";"20040917";"20040914";"Shipped";"They want to reevaluate their terms agreement with Finance.";362
+10296;"20040915";"20040922";"20040916";"Shipped";"";415
+10297;"20040916";"20040922";"20040921";"Shipped";"We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.";189
+10298;"20040927";"20041005";"20041001";"Shipped";"";103
+10299;"20040930";"20041010";"20041001";"Shipped";"";186
+10300;"20031004";"20031013";"20031009";"Shipped";"";128
+10301;"20031005";"20031015";"20031008";"Shipped";"";299
+10302;"20031006";"20031016";"20031007";"Shipped";"";201
+10303;"20041006";"20041014";"20041009";"Shipped";"Customer inquired about remote controlled models and gold models.";484
+10304;"20041011";"20041020";"20041017";"Shipped";"";256
+10305;"20041013";"20041022";"20041015";"Shipped";"Check on availability.";286
+10306;"20041014";"20041021";"20041017";"Shipped";"";187
+10307;"20041014";"20041023";"20041020";"Shipped";"";339
+10308;"20041015";"20041024";"20041020";"Shipped";"Customer requested that FedEx Ground is used for this shipping";319
+10309;"20041015";"20041024";"20041018";"Shipped";"";121
+10310;"20041016";"20041024";"20041018";"Shipped";"";259
+10311;"20041016";"20041023";"20041020";"Shipped";"Difficult to negotiate with customer. We need more marketing materials";141
+10312;"20041021";"20041027";"20041023";"Shipped";"";124
+10313;"20041022";"20041028";"20041025";"Shipped";"Customer requested that FedEx Ground is used for this shipping";202
+10314;"20041022";"20041101";"20041023";"Shipped";"";227
+10315;"20041029";"20041108";"20041030";"Shipped";"";119
+10316;"20041101";"20041109";"20041107";"Shipped";"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment";240
+10317;"20041102";"20041112";"20041108";"Shipped";"";161
+10318;"20041102";"20041109";"20041107";"Shipped";"";157
+10319;"20041103";"20041111";"20041106";"Shipped";"Customer requested that DHL is used for this shipping";456
+10320;"20041103";"20041113";"20041107";"Shipped";"";144
+10321;"20041104";"20041112";"20041107";"Shipped";"";462
+10322;"20041104";"20041112";"20041110";"Shipped";"Customer has worked with some of our vendors in the past and is aware of their MSRP";363
+10323;"20041105";"20041112";"20041109";"Shipped";"";128
+10324;"20041105";"20041111";"20041108";"Shipped";"";181
+10325;"20041105";"20041113";"20041108";"Shipped";"";121
+10326;"20041109";"20041116";"20041110";"Shipped";"";144
+10327;"20041110";"20041119";"20041113";"Resolved";"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed.";145
+10328;"20041112";"20041121";"20041118";"Shipped";"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch";278
+10329;"20041115";"20041124";"20041116";"Shipped";"";131
+10330;"20041116";"20041125";"20041121";"Shipped";"";385
+10331;"20041117";"20041123";"20041123";"Shipped";"Customer requested special shippment. The instructions were passed along to the warehouse";486
+10332;"20041117";"20041125";"20041118";"Shipped";"";187
+10333;"20041118";"20041127";"20041120";"Shipped";"";129
+10334;"20041119";"20041128";"";"On Hold";"The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.";144
+10335;"20041119";"20041129";"20041123";"Shipped";"";124
+10336;"20041120";"20041126";"20041124";"Shipped";"Customer requested that DHL is used for this shipping";172
+10337;"20041121";"20041130";"20041126";"Shipped";"";424
+10338;"20041122";"20041202";"20041127";"Shipped";"";381
+10339;"20041123";"20041130";"20041130";"Shipped";"";398
+10340;"20041124";"20041201";"20041125";"Shipped";"Customer is interested in buying more Ferrari models";216
+10341;"20041124";"20041201";"20041129";"Shipped";"";382
+10342;"20041124";"20041201";"20041129";"Shipped";"";114
+10343;"20041124";"20041201";"20041126";"Shipped";"";353
+10344;"20041125";"20041202";"20041129";"Shipped";"";350
+10345;"20041125";"20041201";"20041126";"Shipped";"";103
+10346;"20041129";"20041205";"20041130";"Shipped";"";112
+10347;"20041129";"20041207";"20041130";"Shipped";"Can we deliver the new Ford Mustang models by end-of-quarter?";114
+10348;"20041101";"20041108";"20041105";"Shipped";"";458
+10349;"20041201";"20041207";"20041203";"Shipped";"";151
+10350;"20041202";"20041208";"20041205";"Shipped";"";141
+10351;"20041203";"20041211";"20041207";"Shipped";"";324
+10352;"20041203";"20041212";"20041209";"Shipped";"";198
+10353;"20041204";"20041211";"20041205";"Shipped";"";447
+10354;"20041204";"20041210";"20041205";"Shipped";"";323
+10355;"20041207";"20041214";"20041213";"Shipped";"";141
+10356;"20041209";"20041215";"20041212";"Shipped";"";250
+10357;"20041210";"20041216";"20041214";"Shipped";"";124
+10358;"20041210";"20041216";"20041216";"Shipped";"Customer requested that DHL is used for this shipping";141
+10359;"20041215";"20041223";"20041218";"Shipped";"";353
+10360;"20041216";"20041222";"20041218";"Shipped";"";496
+10361;"20041217";"20041224";"20041220";"Shipped";"";282
+10362;"20050105";"20050116";"20050110";"Shipped";"";161
+10363;"20050106";"20050112";"20050110";"Shipped";"";334
+10364;"20050106";"20050117";"20050109";"Shipped";"";350
+10365;"20050107";"20050118";"20050111";"Shipped";"";320
+10366;"20050110";"20050119";"20050112";"Shipped";"";381
+10367;"20050112";"20050121";"20050116";"Resolved";"This order was disputed and resolved on 2/1/2005. Customer claimed that container with shipment was damaged. FedEx's investigation proved this wrong.";205
+10368;"20050119";"20050127";"20050124";"Shipped";"Can we renegotiate this one?";124
+10369;"20050120";"20050128";"20050124";"Shipped";"";379
+10370;"20050120";"20050201";"20050125";"Shipped";"";276
+10371;"20050123";"20050203";"20050125";"Shipped";"";124
+10372;"20050126";"20050205";"20050128";"Shipped";"";398
+10373;"20050131";"20050208";"20050206";"Shipped";"";311
+10374;"20050202";"20050209";"20050203";"Shipped";"";333
+10375;"20050203";"20050210";"20050206";"Shipped";"";119
+10376;"20050208";"20050218";"20050213";"Shipped";"";219
+10377;"20050209";"20050221";"20050212";"Shipped";"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches";186
+10378;"20050210";"20050218";"20050211";"Shipped";"";141
+10379;"20050210";"20050218";"20050211";"Shipped";"";141
+10380;"20050216";"20050224";"20050218";"Shipped";"";141
+10381;"20050217";"20050225";"20050218";"Shipped";"";321
+10382;"20050217";"20050223";"20050218";"Shipped";"Custom shipping instructions sent to warehouse";124
+10383;"20050222";"20050302";"20050225";"Shipped";"";141
+10384;"20050223";"20050306";"20050227";"Shipped";"";321
+10385;"20050228";"20050309";"20050301";"Shipped";"";124
+10386;"20050301";"20050309";"20050306";"Resolved";"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models.";141
+10387;"20050302";"20050309";"20050306";"Shipped";"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases.";148
+10388;"20050303";"20050311";"20050309";"Shipped";"";462
+10389;"20050303";"20050309";"20050308";"Shipped";"";448
+10390;"20050304";"20050311";"20050307";"Shipped";"They want to reevaluate their terms agreement with Finance.";124
+10391;"20050309";"20050320";"20050315";"Shipped";"";276
+10392;"20050310";"20050318";"20050312";"Shipped";"";452
+10393;"20050311";"20050322";"20050314";"Shipped";"They want to reevaluate their terms agreement with Finance.";323
+10394;"20050315";"20050325";"20050319";"Shipped";"";141
+10395;"20050317";"20050324";"20050323";"Shipped";"We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down.";250
+10396;"20050323";"20050402";"20050328";"Shipped";"";124
+10397;"20050328";"20050409";"20050401";"Shipped";"";242
+10398;"20050330";"20050409";"20050331";"Shipped";"";353
+10399;"20050401";"20050412";"20050403";"Shipped";"";496
+10400;"20050401";"20050411";"20050404";"Shipped";"Customer requested that DHL is used for this shipping";450
+10401;"20050403";"20050414";"";"On Hold";"Customer credit limit exceeded. Will ship when a payment is received.";328
+10402;"20050407";"20050414";"20050412";"Shipped";"";406
+10403;"20050408";"20050418";"20050411";"Shipped";"";201
+10404;"20050408";"20050414";"20050411";"Shipped";"";323
+10405;"20050414";"20050424";"20050420";"Shipped";"";209
+10406;"20050415";"20050425";"20050421";"Disputed";"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this.";145
+10407;"20050422";"20050504";"";"On Hold";"Customer credit limit exceeded. Will ship when a payment is received.";450
+10408;"20050422";"20050429";"20050427";"Shipped";"";398
+10409;"20050423";"20050505";"20050424";"Shipped";"";166
+10410;"20050429";"20050510";"20050430";"Shipped";"";357
+10411;"20050501";"20050508";"20050506";"Shipped";"";233
+10412;"20050503";"20050513";"20050505";"Shipped";"";141
+10413;"20050505";"20050514";"20050509";"Shipped";"Customer requested that DHL is used for this shipping";175
+10414;"20050506";"20050513";"";"On Hold";"Customer credit limit exceeded. Will ship when a payment is received.";362
+10415;"20050509";"20050520";"20050512";"Disputed";"Customer claims the scales of the models don't match what was discussed. I keep all the paperwork though to prove otherwise";471
+10416;"20050510";"20050516";"20050514";"Shipped";"";386
+10417;"20050513";"20050519";"20050519";"Disputed";"Customer doesn't like the colors and precision of the models.";141
+10418;"20050516";"20050524";"20050520";"Shipped";"";412
+10419;"20050517";"20050528";"20050519";"Shipped";"";382
+10420;"20050529";"20050607";"";"In Process";"";282
+10421;"20050529";"20050606";"";"In Process";"Custom shipping instructions were sent to warehouse";124
+10422;"20050530";"20050611";"";"In Process";"";157
+10423;"20050530";"20050605";"";"In Process";"";314
+10424;"20050531";"20050608";"";"In Process";"";141
+10425;"20050531";"20050607";"";"In Process";"";119
